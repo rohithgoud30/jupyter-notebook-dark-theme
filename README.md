@@ -1,0 +1,2 @@
+# jupytr-notebook-dark-theme
+CUSTOM CSS FILE. BEST DARK THEME EVER FOR JUPYTER NOTEBOOK
