@@ -21,6 +21,3 @@ The notebook list is themed as well.
 
 ![Notebook list](screenshot-list.png)
 
-For [ggplots](http://ggplot2.org/) that match the theme, I recommend using the dark HighCharts themes from [ggthemes](https://github.com/jrnold/ggthemes).
-
-![Dark ggplots](screenshot-ggplot2.png)
